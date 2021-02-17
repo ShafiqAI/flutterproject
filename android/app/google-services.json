@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96243954081",
+    "project_id": "stad-c5409",
+    "storage_bucket": "stad-c5409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96243954081:android:75aaa30882207e12369be0",
+        "android_client_info": {
+          "package_name": "com.example.recipe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96243954081-gbq0hoq6g61ntevb2nl5h3erhl6sk5n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyVwrOjaB5vHrJ-UFSy5idZ_Jll6fryb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96243954081-gbq0hoq6g61ntevb2nl5h3erhl6sk5n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
